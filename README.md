@@ -1,5 +1,4 @@
 # Airnub-Data-Analysis-project
-# Airbnb_Data_Analyst
 ## Table of contents
 1. [Installations.](#install)       
 2. [Project Motivation.](#proj)      
